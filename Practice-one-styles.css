@@ -1,0 +1,62 @@
+
+/* Header/ Navbar */
+
+
+body {
+    background-color: #95ca9e;
+    color: #ffffff;
+}
+
+
+/*  Box 1 Selected mail location */
+
+
+.email-list {
+    background-color: #008000;
+    padding: 10px;
+}
+
+.email {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    background-color: #808080;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.selected-email {
+    background-color: #000000;
+    padding: 5px;
+}
+
+
+/*  Box 2 message contents */
+
+
+.email-header {
+    display:flex;
+    justify-content: left;
+}
+
+.mailbox {
+    
+}
+/* Box 3 compose popup */
+
+
+.message {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    width: 100%;
+    border: 1px solid #cccccc;
+}
+
+.compose {
+    background-color: #048000e1;
+    color: #ffffff;
+}
