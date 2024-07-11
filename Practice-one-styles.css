@@ -1,4 +1,6 @@
-
+.menubuttons {
+    background-color: rgb(63, 158, 26);
+}
 /* Header/ Navbar */
 
 
@@ -27,7 +29,7 @@ body {
 }
 
 .selected-email {
-    background-color: #000000;
+    background-color: #70caff;
     /* padding: 5px; */
 }
 
